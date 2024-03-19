@@ -57,6 +57,7 @@ Developed by: Shanmuga Raj.K RegisterNumber: 212223040192*/
 **RTL Schematic**
 ![alt text](<Screenshot 2024-03-19 091259.png>)
 **Output/TIMING Waveform**
-![alt text](<Screenshot (114).png>)
+![Screenshot (116)](https://github.com/K-Shanmugaraj/HALF_ADDER_SUBTRACTOR/assets/144870425/e0678f60-6d70-46da-8f00-cd78be86a913)
+
 **Result:**
 Half adder and haf subtracter are verified successfully.
